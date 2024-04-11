@@ -24,5 +24,8 @@ Login-page.js holds information relevant to the login page (also the main page) 
 ## Monitor-screen.js 
 Monitor-screen.js has requirements listed under Blood Glucose Monitoring in the word document. The nav bar displays the patients name and ID number as well as a logout button. To start the questionnaire, you will need to answer the first question which is displayed. Then depending on the user’s answer, following questions may follow. This logic is handled in monitor-screen.js. At the end of all questions, the user is prompted to log out. Mouse-over dialogs are on the “yes” and “no” buttons, the submit buttons, and the prompted log-out button. “SHOW HELP” above the question box, contains information on what to do if the user is lost. Monitor.css is the styling sheet for this page. 
 
+## Demo 
+https://github.com/sofdogs/HCI_HW3/assets/89602593/e1ada11c-1d52-4028-8dc8-a7bc225f9fa0
+
 
 # HCI_HW3
